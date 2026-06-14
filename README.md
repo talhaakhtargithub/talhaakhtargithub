@@ -1,82 +1,98 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dba4e,100:0A66C2&height=200&section=header&text=Talha%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Specialist%20%E2%80%A2%2040%2B%20Projects%20Delivered&descSize=20&descAlignY=60" />
-
-<h1 align="center">Hi, I'm Talha Akhtar 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talhaakhtargithub&label=Profile%20views&color=2dba4e&style=flat" alt="profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dba4e,100:0A66C2&height=210&section=header&text=Talha%20Akhtar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Automation%20Specialist%20%E2%80%A2%20Building%20Autonomous%20Systems&descSize=20&descAlignY=58" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Automation+Specialist;Multi-Agent+AI+Systems+Builder;n8n+%2B+OpenAI+%2B+VAPI+Automation;Chrome+Extensions+%26+Web+Scraping;40%2B+Production+Projects+Delivered&font=Fira%20Code&center=true&width=620&height=45&color=2dba4e&vCenter=true&pause=900&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+build+AI+agents+that+do+real+work;Multi-Agent+Systems+%E2%80%A2+n8n+%E2%80%A2+VAPI;Chrome+Extensions+%26+Web+Automation;40%2B+Production+Projects+Shipped&font=Fira%20Code&center=true&width=640&height=42&color=2dba4e&vCenter=true&pause=900&size=21" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ceotalha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/talhaakhtargithub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:talhaakhtarkpr1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/talha.automation"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:talhaakhtarkpr1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/talhaakhtargithub"><img src="https://komarev.com/ghpvc/?username=talhaakhtargithub&label=Profile+views&color=2dba4e&style=for-the-badge" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-**AI & Automation Specialist** with **40+ projects delivered**, specializing in rapid execution of intelligent automation. I build **AI agents** (chatbots, voice agents, multi-agent systems), **browser extensions**, and **workflow automation** using OpenAI, Vertex AI, Heygen, Runway, and VAPI — combined with **n8n, Zapier & Make.com**. Proven track record in **social-media automation at scale**, **CRM integrations**, and **production-grade Chrome extensions** that drive measurable business results.
+```python
+talha = {
+    "role": "AI & Automation Specialist @ Automaxion.io",
+    "focus": ["Multi-Agent AI Systems", "Workflow Automation", "Chrome Extensions"],
+    "stack": ["OpenAI", "Claude", "n8n", "VAPI", "Python", "Node.js"],
+    "shipped": "40+ production projects",
+    "impact": "cut manual work 70%+ with autonomous systems",
+    "location": "Lahore, PK  →  open to remote, worldwide 🌍",
+}
+```
 
-- 🔭 Currently **AI & Automation Engineer @ Automaxion.io**
-- 🤖 I turn manual workflows into autonomous systems (often cutting effort **70%+**)
-- 🌍 Based in Lahore, Pakistan — open to **remote roles worldwide**
-- 📫 Reach me: **talhaakhtarkpr1@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-| Area | Tools |
-|---|---|
-| **AI & ML** | OpenAI (GPT-4), Vertex AI, Claude, Heygen, Veo3, LLM integration, Prompt engineering |
-| **Automation** | n8n, Zapier, Make.com, UiPath, VAPI (voice agents), MCP servers, multi-agent systems |
-| **Development** | Python, JavaScript/TypeScript, Node.js, Angular, Chrome Extensions, Selenium, REST APIs |
-| **Platforms** | GoHighLevel, Airtable, GCP, Firebase, Instagram/TikTok/LinkedIn/YouTube APIs |
+> I turn messy manual workflows into **autonomous systems** — AI agents, voice bots, browser
+> automation, and CRM pipelines that run themselves and deliver measurable results.
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🤖 [LinkedIn Setter Bot](https://github.com/talhaakhtargithub/linkedin-setter) | Autonomous outreach agent that books strategy calls via a 6-stage DM playbook | Python, Claude, Chrome DevTools MCP |
-| 📈 [TradingView MCP](https://github.com/talhaakhtargithub/tradingview-mcp-ob) | MCP server exposing 81 tools for live charting & automated trading analysis | Node.js, CDP, Pine Script |
-| 📬 [Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier) | Cloud job-application engine — finds emails, sends CV, tracks on a live dashboard | Python, Apify, GitHub Actions |
-| 🎬 [Remotion Auto Video](https://github.com/talhaakhtargithub/remotion) | Programmatic video rendering from JSON/CSV — no manual editing | TypeScript, Remotion, React |
-| 📱 [Social Auto-Post](https://github.com/talhaakhtargithub/auto_post) | Daily automated IG + LinkedIn posting on a schedule | Python, GitHub Actions |
-| 🗣️ [VAPI Manager](https://github.com/talhaakhtargithub/vapi-manager) | Voice-AI assistant management & deployment | Node.js, VAPI |
-
----
-
-## 📊 GitHub Stats
+### 🧰 Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaakhtargithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaakhtargithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,js,angular,react,nextjs,tailwind,mongodb,mysql,gcp,firebase,docker,git,linux&perline=8" />
+</p>
+
+<p align="center">
+  <b>AI / Automation:</b> OpenAI · Claude · Vertex AI · VAPI · n8n · Zapier · Make.com · UiPath · MCP Servers · Heygen
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [LinkedIn Setter Bot](https://github.com/talhaakhtargithub/linkedin-setter)**
+Autonomous outreach agent that books CEO calls via a 6-stage DM playbook.
+`Python` `Claude` `Chrome DevTools MCP`
+
+**📬 [Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier)**
+Cloud job-application engine — finds emails, sends CV, live dashboard.
+`Python` `Apify` `GitHub Actions`
+
+**📈 [TradingView MCP](https://github.com/talhaakhtargithub/tradingview-mcp-ob)**
+MCP server with 81 tools for live charting & trade analysis.
+`Node.js` `CDP` `Pine Script`
+
+</td>
+<td width="50%" valign="top">
+
+**🗣️ [NONHUMAN Agents](https://github.com/talhaakhtargithub/nonhuman-agents)**
+Three AI agents, one operator — multi-agent control app.
+`Anthropic SDK` `Express` `React`
+
+**💆 [Cevlara Dashboard](https://github.com/talhaakhtargithub/cevlara)**
+Med-Spa AI automation dashboard with VAPI voice agents.
+`Next.js` `VAPI` `CRM`
+
+**🎬 [Remotion Auto Video](https://github.com/talhaakhtargithub/remotion)**
+Programmatic video rendering from JSON/CSV — zero manual editing.
+`TypeScript` `Remotion` `React`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talhaakhtargithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaakhtargithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtargithub&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=talhaakhtargithub&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
 </p>
@@ -85,12 +101,16 @@
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-- **Automaxion.io** — AI & Automation Engineer *(Nov 2024 – Present)* · 40+ AI automation projects, multi-agent systems, 7+ Chrome extensions
-- **Softaxe** — Full Stack Developer *(May – Nov 2024)* · Angular + Node.js REST APIs
-- **Inxol Technologies** — Frontend Developer *(Jun – Aug 2023)*
+`Nov 2024 – Now` **Automaxion.io** — AI & Automation Engineer · 40+ AI projects, multi-agent systems, 7+ Chrome extensions
+`2024` **Softaxe** — Full-Stack Developer · Angular + Node.js REST APIs
+`2023` **Inxol Technologies** — Frontend Developer
 
-🎓 **BSc Electrical Engineering** — University of the Punjab, Lahore (CGPA 3.42/4.00)
+🎓 **BSc Electrical Engineering** — University of the Punjab, Lahore *(CGPA 3.42)*
 
-<p align="center"><i>⚡ Turning ideas into autonomous systems, one workflow at a time.</i></p>
+---
+
+<p align="center"><i>⚡ "Automate everything that can be automated." — Let's build.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2dba4e&height=120&section=footer" />
