@@ -1,68 +1,65 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2dba4e,100:0A66C2&height=240&section=header&text=TALHA%20AKHTAR&fontSize=70&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=%F0%9F%A4%96%20I%20build%20AI%20that%20does%20the%20work&descSize=22&descAlignY=62" />
+# Talha Akhtar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Automation+Specialist+%F0%9F%A4%96;Multi-Agent+Systems+%E2%9A%A1;n8n+%2B+OpenAI+%2B+VAPI+%F0%9F%94%A5;40%2B+Projects+Shipped+%F0%9F%9A%80&font=Fira%20Code&center=true&width=620&height=44&color=2dba4e&vCenter=true&pause=700&size=26" />
-</p>
+**AI & Automation Specialist** — I build AI agents, browser automation, and workflow systems that run themselves.
+40+ projects shipped · based in Lahore 🇵🇰 · open to remote roles worldwide.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ceotalha"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:talhaakhtarkpr1@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/talha.automation"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=talhaakhtargithub&color=2dba4e&style=for-the-badge&label=VIEWS" />
-</p>
-
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" /></p>
-
-<h3 align="center">🤖 turning manual work into autonomous systems · ⚡ 40+ shipped · 🌍 remote-ready</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceotalha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:talhaakhtarkpr1@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/talha.automation)
 
 ---
 
-<h2 align="center">🧰 Weapons of Choice</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,js,react,nextjs,angular,tailwind,mongodb,gcp,firebase,docker,git,linux&perline=7" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logo=v&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
+### 🧠 What I do
+
+- 🤖 **AI agents** — chatbots, voice agents (VAPI), multi-agent systems
+- ⚙️ **Automation** — n8n, Zapier, Make.com, custom Python/Node bots
+- 🧩 **Browser & web** — Chrome extensions, Selenium, web scraping
+- 🔗 **Integrations** — OpenAI, Claude, CRMs (GoHighLevel), REST APIs
+
+### 🛠️ Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
-<h2 align="center">🚀 Stuff I Built</h2>
+### 🚀 Featured Projects
 
-<p align="center">
-
-🤖 **[LinkedIn Setter Bot](https://github.com/talhaakhtargithub/linkedin-setter)** · books CEO calls on autopilot
-📬 **[Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier)** · applies to jobs while you sleep
-📈 **[TradingView MCP](https://github.com/talhaakhtargithub/tradingview-mcp-ob)** · 81 tools, live charts, auto-analysis
-🗣️ **[NONHUMAN Agents](https://github.com/talhaakhtargithub/nonhuman-agents)** · 3 agents, 1 operator
-💆 **[Cevlara](https://github.com/talhaakhtargithub/cevlara)** · Med-Spa AI dashboard + voice agents
-🎬 **[Remotion Auto Video](https://github.com/talhaakhtargithub/remotion)** · videos from JSON, zero editing
-
-</p>
+| Project | Description |
+| :--- | :--- |
+| **[LinkedIn Setter Bot](https://github.com/talhaakhtargithub/linkedin-setter)** | Autonomous outreach agent that books strategy calls via a 6-stage DM playbook |
+| **[Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier)** | Cloud job-application engine — finds emails, sends CV, live dashboard |
+| **[TradingView MCP](https://github.com/talhaakhtargithub/tradingview-mcp-ob)** | MCP server with 81 tools for live charting & automated analysis |
+| **[NONHUMAN Agents](https://github.com/talhaakhtargithub/nonhuman-agents)** | Multi-agent control app — three AI agents, one operator |
+| **[Cevlara](https://github.com/talhaakhtargithub/cevlara)** | Med-Spa AI automation dashboard with VAPI voice agents |
+| **[Remotion Auto Video](https://github.com/talhaakhtargithub/remotion)** | Programmatic video rendering from JSON/CSV — no manual editing |
 
 ---
 
-<h2 align="center">📊 The Numbers</h2>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaakhtargithub&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaakhtargithub&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtargithub&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talhaakhtargithub&theme=radical&no-frame=true&column=7&margin-w=5" />
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhaakhtargithub&theme=redical&hide_border=true&area=true" />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=talhaakhtargithub&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&card_width=420" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaakhtargithub&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=300" /></td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><b>⚡ "If it's repetitive, I automate it." ⚡</b></p>
+### 💼 Experience
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2dba4e&height=120&section=footer" />
+- **Automaxion.io** — AI & Automation Engineer · *Nov 2024 – Present*
+- **Softaxe** — Full-Stack Developer · *2024*
+- **Inxol Technologies** — Frontend Developer · *2023*
+
+🎓 BSc Electrical Engineering — University of the Punjab, Lahore
+
+📫 **talhaakhtarkpr1@gmail.com**
