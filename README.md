@@ -1,96 +1,84 @@
-<!-- Greetings -->
-<h1 align="center">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome To Talha's Profile!
-	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
-</h1>
-<br/>
+<h1 align="center">Hi, I'm Talha Akhtar 👋</h1>
 
-
-Hello there! 👋 Welcome to my GitHub repository. I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a Front-End Developer with a special focus on Angular.
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=CRAFT+AN+AMAZING+FRONTEND;BRING+DESIGNS+TO+LIFE;CREATE+INTUITIVE+USER+EXPERIENCES;CODE+WITH+PASSION+AND+CREATIVITY;TURN+IDEAS+INTO+DIGITAL+REALITY;MAKE+ANGULAR+VISIONS+COME+TRUE&font=Fira%20Code&center=true&duration=2000&pause=500" alt="Example Usage - README Typing SVG"></h1>
-
-
-
-
-
-
-<h1>Talha Akhtar 🧑‍💻 Who Am I?</h1>
-<img align="right" alt="Coding" width="400" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
-
-
-  - Passionate Front-End Developer 🚀
-  - Enjoys crafting visually appealing and user-friendly web interfaces 🎨
-  - Dedicated to creating seamless and engaging user experiences 🔗
-  - Thrives on staying up-to-date with the latest trends and technologies in web development 💡
-  - Let's embark on this exciting coding adventure together! 🌐
-  - Feel free to explore my projects and reach out for discussions, collaborations, or simply to connect. 🤝
-## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Talha Akhtar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtargithub&theme=monokai-metallian&hide_border=true"/>
-</a>
-
-<p align="center"> If you can dream it, you can do it🔥 </p>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Automation+Specialist;Multi-Agent+AI+Systems+Builder;n8n+%2B+OpenAI+%2B+VAPI+Automation;Chrome+Extensions+%26+Web+Scraping;40%2B+Production+Projects+Delivered&font=Fira%20Code&center=true&width=620&height=45&color=2dba4e&vCenter=true&pause=900&size=22" alt="Typing SVG" />
+  </a>
 </p>
 
-
-
-## 🚀 Expertise in Angular
-- **Angular Enthusiast:** Building with Angular for 1.5+ years 🅰️
-- **Component Wizard:** Crafting reusable components is my superpower 🔧
-- **RxJS Ninja:** Mastering reactive programming with RxJS 🔄
-- **Performance Geek:** Optimizing for speed and efficiency ⚡️
-- **Material Design Aficionado:** Creating stunning UIs with Angular Material 🎨
-- **State Management Pro:** Leveraging NgRx for efficient state management 🗄️
-- **Mapping Magician:** Utilizing maps and geolocation in Angular applications 🗺️
-- **Unit Testing Advocate:** Ensuring robust code through comprehensive testing 🧪
-
-## 🌟 Skills
-In addition to my Angular expertise, here are some more skills in my toolbox:
-
-- **Front-End Development:** Transforming designs into interactive web experiences 🌐
-- **HTML/CSS:** Structuring and styling web content for seamless UI 🎨
-- **JavaScript/TypeScript:** Crafting dynamic and responsive user interactions 📜
-- **Responsive Web Design:** Designing for various devices and screen sizes 📱
-- **UI/UX Design Principles:** Creating intuitive and user-centered interfaces 🎉
-- **Version Control (Git):** Collaborating seamlessly with version control systems 🔄
-- **Web Performance Optimization:** Enhancing speed and efficiency for superior user experiences ⚡️
-- **NgRx for State Management:** Managing complex application states with precision 🗄️
-- **Maps and Geolocation Integration:** Enhancing apps with interactive maps and location-based features 🗺️
-- **Unit Testing:** Ensuring code reliability through comprehensive testing 🧪
-
-## 🛠️ What You'll Find in This Repository
-
-In this GitHub repository, you'll discover a collection of projects, code snippets, and resources that showcase my skills as a Front-End Developer with expertise in Angular. Here's a sneak peek of what's inside:
-
-- **Project Showcases:** Browse through various Angular projects I've worked on. Each project demonstrates different aspects of my coding style, problem-solving abilities, and attention to detail.
-
-- **Code Snippets:** Explore code snippets that highlight specific Angular techniques, such as routing, state management, and API integration. Feel free to reuse these snippets in your projects.
-
-- **Tutorials and Guides:** I'm a firm believer in knowledge sharing. You'll find tutorials and guides related to Angular concepts, best practices, and tips for efficient development.
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate, learn, and share ideas with fellow developers. Whether you're a seasoned pro or just starting with Angular, feel free to reach out.
-
-
-
-Feel free to explore my other accounts as well:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/talha12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha12/" height="30" width="40" /></a>
-<a href="https://instagram.com/devthoughts.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devthoughts.io" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/talhaakhtarkpr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhaakhtarkpr1" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ceotalha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/talhaakhtargithub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/talha.automation"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:talhaakhtarkpr1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-Thank you for stopping by! 🙌 Let's build amazing Angular experiences together! 🚀
+## 🚀 About Me
 
+**AI & Automation Specialist** with **40+ projects delivered**, specializing in rapid execution of intelligent automation. I build **AI agents** (chatbots, voice agents, multi-agent systems), **browser extensions**, and **workflow automation** using OpenAI, Vertex AI, Heygen, Runway, and VAPI — combined with **n8n, Zapier & Make.com**. Proven track record in **social-media automation at scale**, **CRM integrations**, and **production-grade Chrome extensions** that drive measurable business results.
 
+- 🔭 Currently **AI & Automation Engineer @ Automaxion.io**
+- 🤖 I turn manual workflows into autonomous systems (often cutting effort **70%+**)
+- 🌍 Based in Lahore, Pakistan — open to **remote roles worldwide**
+- 📫 Reach me: **talhaakhtarkpr1@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+| Area | Tools |
+|---|---|
+| **AI & ML** | OpenAI (GPT-4), Vertex AI, Claude, Heygen, Veo3, LLM integration, Prompt engineering |
+| **Automation** | n8n, Zapier, Make.com, UiPath, VAPI (voice agents), MCP servers, multi-agent systems |
+| **Development** | Python, JavaScript/TypeScript, Node.js, Angular, Chrome Extensions, Selenium, REST APIs |
+| **Platforms** | GoHighLevel, Airtable, GCP, Firebase, Instagram/TikTok/LinkedIn/YouTube APIs |
+
+---
+
+## 📌 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 [LinkedIn Setter Bot](https://github.com/talhaakhtargithub/linkedin-setter) | Autonomous outreach agent that books strategy calls via a 6-stage DM playbook | Python, Claude, Chrome DevTools MCP |
+| 📈 [TradingView MCP](https://github.com/talhaakhtargithub/tradingview-mcp-ob) | MCP server exposing 81 tools for live charting & automated trading analysis | Node.js, CDP, Pine Script |
+| 📬 [Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier) | Cloud job-application engine — finds emails, sends CV, tracks on a live dashboard | Python, Apify, GitHub Actions |
+| 🎬 [Remotion Auto Video](https://github.com/talhaakhtargithub/remotion) | Programmatic video rendering from JSON/CSV — no manual editing | TypeScript, Remotion, React |
+| 📱 [Social Auto-Post](https://github.com/talhaakhtargithub/auto_post) | Daily automated IG + LinkedIn posting on a schedule | Python, GitHub Actions |
+| 🗣️ [VAPI Manager](https://github.com/talhaakhtargithub/vapi-manager) | Voice-AI assistant management & deployment | Node.js, VAPI |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaakhtargithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaakhtargithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtargithub&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💼 Experience
+
+- **Automaxion.io** — AI & Automation Engineer *(Nov 2024 – Present)* · 40+ AI automation projects, multi-agent systems, 7+ Chrome extensions
+- **Softaxe** — Full Stack Developer *(May – Nov 2024)* · Angular + Node.js REST APIs
+- **Inxol Technologies** — Frontend Developer *(Jun – Aug 2023)*
+
+🎓 **BSc Electrical Engineering** — University of the Punjab, Lahore (CGPA 3.42/4.00)
+
+<p align="center"><i>⚡ Turning ideas into autonomous systems, one workflow at a time.</i></p>
