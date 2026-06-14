@@ -1,4 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dba4e,100:0A66C2&height=200&section=header&text=Talha%20Akhtar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Specialist%20%E2%80%A2%2040%2B%20Projects%20Delivered&descSize=20&descAlignY=60" />
+
 <h1 align="center">Hi, I'm Talha Akhtar 👋</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=talhaakhtargithub&label=Profile%20views&color=2dba4e&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -70,6 +76,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaakhtargithub&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=talhaakhtargithub&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhaakhtargithub&theme=tokyo-night&hide_border=true&area=true&color=2dba4e&line=0A66C2&point=ffffff" />
 
 ---
 
