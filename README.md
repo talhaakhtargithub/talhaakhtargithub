@@ -34,12 +34,12 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[LinkedIn Setter Bot](https://github.com/talhaakhtargithub/linkedin-setter)** | Autonomous outreach agent that books strategy calls via a 6-stage DM playbook |
-| **[Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier)** | Cloud job-application engine — finds emails, sends CV, live dashboard |
-| **[TradingView MCP](https://github.com/talhaakhtargithub/tradingview-mcp-ob)** | MCP server with 81 tools for live charting & automated analysis |
+| **[Email Auto Applier](https://github.com/talhaakhtargithub/email_auto_applier)** | Cloud job-application engine — finds emails, sends CV, live dashboard (GitHub Actions) |
+| **[AI Forex Signal Trader](https://github.com/talhaakhtargithub/ai-forex-signal-trader)** | Reads WhatsApp signals, decides with AI, places trades directly into MT5 |
 | **[NONHUMAN Agents](https://github.com/talhaakhtargithub/nonhuman-agents)** | Multi-agent control app — three AI agents, one operator |
 | **[Cevlara](https://github.com/talhaakhtargithub/cevlara)** | Med-Spa AI automation dashboard with VAPI voice agents |
-| **[Remotion Auto Video](https://github.com/talhaakhtargithub/remotion)** | Programmatic video rendering from JSON/CSV — no manual editing |
+| **[Crypto Order-Block Trader](https://github.com/talhaakhtargithub/crypto-orderblock-trader)** | Live crypto order-block & momentum analysis with backtesting |
+| **[VAPI Manager](https://github.com/talhaakhtargithub/vapi-manager)** | Voice-AI assistant management & deployment toolkit |
 
 ---
 
